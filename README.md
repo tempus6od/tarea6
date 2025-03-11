@@ -7,4 +7,4 @@ Sistema de Gestión de Cursos de Robótica
 Este proyecto es un sistema para gestionar cursos de robótica en una pequeña escuela. Permite a los usuarios (estudiantes, profesores y administrativos) acceder a cursos, grupos y kits de robótica.
 
 ## Diagrama ER
-![Diagrama ER](DIAGRAMA_ER.png)
+![DIAGRAMA ER](https://github.com/user-attachments/assets/4cd94a32-ad7d-45f0-89d9-f48d814c44c1)
